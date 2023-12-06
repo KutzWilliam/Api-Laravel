@@ -1,7 +1,7 @@
-#API em Laravel
+# API em Laravel
 API usando recursos do laravel 8, como migration, seeds, rotas...
 
-##Com os Métodos
+## Com os Métodos
 PUT, GET, POST, PATCH e DELETE;
 
 Eloquent ORM:
@@ -29,7 +29,7 @@ Trabalhando com JWT;
 - POSTMAN
 - MySql
 
-##Configuração e Instalação
+## Configuração e Instalação
 
 1. Clone o repositório
 2. Importe o esquema do banco de dados fornecido no diretório `database/laravel_carrinho`.
